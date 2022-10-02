@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "website-pluakdaeng-promp",
+    "site": "website-dent-pluakdaenghos-queue-promp",
     "public": "dist",
     "ignore": [
       "firebase.json",
