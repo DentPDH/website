@@ -82,13 +82,13 @@ export default {
   },
   methods: {
     goToAdminWeb() {
-      window.open('https://admin.คิวพร้อม.com')
+      window.open('https://admin.ทันตกรรมปลวกแดงคิวพร้อม.com')
     },
     goToCheckQueue() {
-      window.open('https://คิวพร้อม.com?q=search')
+      window.open('https://ทันตกรรมปลวกแดงคิวพร้อม.com?q=search')
     },
     goToDemo() {
-      window.open('https://คิวพร้อม.com?e=0001')
+      window.open('https://ทันตกรรมปลวกแดงคิวพร้อม.com?e=0001')
     },
     goToConfederatePage() {
       this.$router.push('/confederate')
