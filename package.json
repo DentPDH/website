@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "firebase deploy --only hosting:website-pluakdaeng-queue-prompt"
+    "deploy": "firebase deploy --only hosting:website-pluakdaenghos-queue-prompt"
   },
   "dependencies": {
     "@nuxtjs/dotenv": "^1.4.1",
