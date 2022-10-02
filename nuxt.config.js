@@ -8,7 +8,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'www.คิวพร้อม.com',
+    title: 'www.ทันตกรรมปลวกแดงคิวพร้อม.com',
     htmlAttrs: {
       lang: 'en'
     },
@@ -18,7 +18,7 @@ export default {
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
 
-      { property: "og:title", content: "www.คิวพร้อม.com" },
+      { property: "og:title", content: "www.ทันตกรรมปลวกแดงคิว.com" },
       { property: "og:description", content: "Platform ระบบลงทะเบียนจองคิว Free !!" },
       { property: "og:image", content: "https://i.ibb.co/TbwThsb/Transparent.png" },
     ],
